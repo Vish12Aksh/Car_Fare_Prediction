@@ -32,20 +32,16 @@ RandomForestRegressor and GradientBoostingRegressor: Ensemble learning models fo
 
 LinearRegression: A simple yet effective algorithm for linear relationships in data.
 
-Model Development Utilities:
-
-train_test_split: Splits datasets into training and test sets for model evaluation.
+Model Development Utilities: train_test_split: Splits datasets into training and test sets for model evaluation.
 
 RandomizedSearchCV and GridSearchCV: Tools for hyperparameter tuning to optimize model performance.
 
 Evaluation Metrics:
-
 mean_squared_error: Measures prediction error.
 
 r2_score: Assesses how well predictions fit the actual data.
 
-Miscellaneous:
-
+Miscellaneous:-
 pprint: Provides pretty-printing of data for clearer output.
 
 %matplotlib inline: Ensures that visualizations render inline in environments like Jupyter Notebooks.
